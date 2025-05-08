@@ -63,20 +63,14 @@ Here are some ideas to get you started: -->
 
 ## 🏆 Perfiles de Programación Competitiva
 
-<a href="https://leetcode.com/walleeva2018/">
+<a href="">
   <img src="https://img.shields.io/badge/LeetCode-FFA116.svg?style=for-the-badge&logo=LeetCode&logoColor=white">
 </a>
-<a href="https://codeforces.com/profile/walleeva">
+<a href="">
   <img src="https://img.shields.io/badge/Codeforces-1F8ACB.svg?style=for-the-badge&logo=Codeforces&logoColor=white">
 </a>
-<a href="https://www.codechef.com/users/mcqueen2018">
-  <img src="https://img.shields.io/badge/CodeChef-5B4638.svg?style=for-the-badge&logo=CodeChef&logoColor=white">
-</a>
-<a href="https://www.hackerrank.com/walleeva2018?hr_r=1">
+<a href="">
   <img src="https://img.shields.io/badge/HackerRank-00EA64.svg?style=for-the-badge&logo=HackerRank&logoColor=white">
-</a>
-<a href="https://www.hackerearth.com/@walleeva2018">
-  <img src="https://img.shields.io/badge/HackerEarth-2C3454.svg?style=for-the-badge&logo=HackerEarth&logoColor=white">
 </a>
 
 ## 📊 GitHub Stats
@@ -88,29 +82,19 @@ Here are some ideas to get you started: -->
 
 ---
 
-### 🌟 Algunos de mis repositorios destacados:
+### 🌟 Algunos de mis proyectos destacados:
 
-<p align="center">
-  <a href="https://github.com/cyntitadecolores/ML">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=cyntitadecolores&repo=ML&theme=onedark" />
-  </a>
-  <a href="https://github.com/cyntitadecolores/Bangla-desktop-Voice-assistance">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=cyntitadecolores&repo=Bangla-desktop-Voice-assistance&theme=onedark" />
-  </a>
-  <a href="https://github.com/cyntitadecolores/Web">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=cyntitadecolores&repo=Web&theme=onedark" />
-  </a>
-  <a href="https://github.com/cyntitadecolores/Assistance-for-Blind-People">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=cyntitadecolores&repo=Assistance-for-Blind-People&theme=onedark" />
-  </a>
-</p>
+- 🔒 [Ocoyucan (repositorio privado)](https://github.com/cyntitadecolores/Ocoyucan)
+- 🔒 [proyecto_smartlabs (repositorio privado)](https://github.com/cyntitadecolores/proyecto_smartlabs)
+
+*Solicita acceso si estás interesado en revisar el código.*
 
 <h3>Connect with Me </h3> 
 <p align="center">
 <br>
-  <a target="_blank" href="https://www.linkedin.com/in/birunthaban-sarventhiran/"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"></img></a>
-<a target="_blank" href="https://twitter.com/S_Birunthaban"><img src="https://img.shields.io/badge/-Twitter-1DA1F2?style=for-the-badge&logo=Twitter&logoColor=white"></img></a>
-<a href="mailto:dataonatangent@gmail.com?subject=Hola%20Jiji"><img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/></a>&nbsp;
+  <a target="_blank" href=""><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"></img></a>
+<a target="_blank" href=""><img src="https://img.shields.io/badge/-Twitter-1DA1F2?style=for-the-badge&logo=Twitter&logoColor=white"></img></a>
+<a href="mailto:cynthiasantt20@gmail.com"><img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/></a>&nbsp;
 
 </p>
 
