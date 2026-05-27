@@ -3,9 +3,9 @@
 <!-- **cyntitadecolores/cyntitadecolores** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 Here are some ideas to get you started: -->
 
-## 🚀 Tech Stack
+##  Tech Stack
 
-### 🧠 Lenguajes de Programación
+###  Lenguajes de Programación
 - **Frontend**: 
   ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
   ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
@@ -27,7 +27,7 @@ Here are some ideas to get you started: -->
 
 ---
 
-### 🧠 Tecnologías y Frameworks
+###  Tecnologías y Frameworks
   ![React](https://img.shields.io/badge/React-20232a?style=for-the-badge&logo=react&logoColor=61DAFB)
   ![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
   ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
@@ -36,7 +36,7 @@ Here are some ideas to get you started: -->
 
 ---
 
-### 🇺🇸 Herramientas y Plataformas
+###  Herramientas y Plataformas
   ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
   ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
   ![Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
@@ -46,7 +46,7 @@ Here are some ideas to get you started: -->
 
 ---
 
-### 👨‍💻 IDEs
+###  IDEs
   ![VS Code](https://img.shields.io/badge/Visual_Studio_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
   ![Android Studio](https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white)
   ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
@@ -57,11 +57,11 @@ Here are some ideas to get you started: -->
 ### 📚 Actualmente Aprendiendo
   ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
   ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=Kubernetes&logoColor=white)
-  ![AWS](https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
+
 
 ---
 
-## 🏆 Perfiles de Programación Competitiva
+##  Perfiles
 
 <a href="">
   <img src="https://img.shields.io/badge/LeetCode-FFA116.svg?style=for-the-badge&logo=LeetCode&logoColor=white">
@@ -73,7 +73,7 @@ Here are some ideas to get you started: -->
   <img src="https://img.shields.io/badge/HackerRank-00EA64.svg?style=for-the-badge&logo=HackerRank&logoColor=white">
 </a>
 
-## 📊 GitHub Stats
+## GitHub Stats
 
 <div align="center">
   <img height="150" src="https://github-readme-stats.vercel.app/api?username=cyntitadecolores&theme=dark&hide_border=false&include_all_commits=true&count_private=true" />
@@ -82,7 +82,7 @@ Here are some ideas to get you started: -->
 
 ---
 
-### 🌟 Algunos de mis proyectos destacados:
+###  Algunos de mis proyectos destacados:
 
 - 🔒 [Ocoyucan (repositorio privado)](https://github.com/cyntitadecolores/Ocoyucan)
 - 🔒 [proyecto_smartlabs (repositorio privado)](https://github.com/cyntitadecolores/proyecto_smartlabs)
